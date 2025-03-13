@@ -24,6 +24,5 @@ The system is developed using Flask and Python for the backend, while React.js i
 
 - **Backend:** Flask, Python
 - **Frontend:** React.js
-- **Machine Learning Models:** YOLOv8, YOLOv9
-- **Database:** PostgreSQL / MongoDB (optional, based on implementation)
-- **Deployment:** Docker, AWS/GCP (optional)
+- **Machine Learning Models:** YOLOv8, YOLOv9, PyTesseract-OCR, Computer Vision
+- **Database:** MySQL
