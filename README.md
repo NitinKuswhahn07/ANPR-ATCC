@@ -26,3 +26,18 @@ The system is developed using Flask and Python for the backend, while React.js i
 - **Frontend:** React.js
 - **Machine Learning Models:** YOLOv8, YOLOv9, PyTesseract-OCR, Computer Vision
 - **Database:** MySQL
+
+  
+## Installation
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Python (>=3.11)
+- Node.js & npm (for frontend)
+- Flask
+- React.js
+- OpenCV, NumPy, TensorFlow/PyTorch
+- YOLOv8 & YOLOv9 (Ultralytics)
+- Pytesseract-OCR
